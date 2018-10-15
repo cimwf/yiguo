@@ -1,0 +1,60 @@
+#root{
+    height: 100%;
+}
+@font-face {
+    font-family: 'yofont';
+    src: url('/iconfonts/iconfont.eot');
+    src: url('/iconfonts/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('/iconfonts/iconfont.woff') format('woff'),
+    url('/iconfonts/iconfont.ttf') format('truetype'),
+    url('/iconfonts/iconfont.svg#iconfont') format('svg');
+  }
+$color:#00b38a;
+.home-container{
+    height:100%;
+    // display:flex;
+    // flex-direction:column;
+    @include flexbox();
+    @include flex-direction(column);
+    header{
+        height:.44rem;
+        background: $color;
+        color:#fff;
+        font-size: .18rem;
+        line-height: 0.44rem;
+        text-align: center;
+    }
+    main{
+        @include flex();
+    }
+    nav{
+        height:.44rem;
+        background-color: #f6f6f6;
+        @include border(1px 0 0 0);
+        ul{
+            height:100%;
+            @include flexbox();
+            @include align-items(center);
+            li{
+                @include flex();
+                @include flexbox();
+                @include flex-direction(column);
+                @include justify-content(center);
+                @include align-items(center);
+                font-size: .12rem;
+                color:#c2cfcc;
+                b{
+                    font-weight: 100;
+                }
+                &.active{
+                    color:#00b38a;
+                    background: #e7e7e7;
+                }
+                .yo-ico{
+                    font-size: 0.18rem !important;
+                }
+                
+            }
+        }
+    }
+}

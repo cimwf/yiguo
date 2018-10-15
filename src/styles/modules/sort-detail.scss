@@ -1,0 +1,179 @@
+div{
+    .swiper-2{
+            height: 3.75rem !important;
+        .swiper-wrapper{
+            width: 100%;
+            height: 100%;
+            img{
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+    
+    .detail-detail{
+        padding: 0.14rem 0 0.12rem 0.1rem;
+        background-color: #fff;
+        margin: 0.1rem 0;
+        h3{
+            font-weight: normal;
+            font-size: 0.18rem;
+            line-height: 0.3rem;
+        }
+        >p:nth-child(2){
+            font-size: 0.12rem;
+            color:#808080;
+            line-height: 0.18rem;
+            span{
+                display:inline-block;
+                padding: 0 0.1rem;
+                @include border(1px #1fa44b);
+                color:#1fa44b;
+                font-size: 0.12rem;
+                margin-right: 0.1rem;
+            }
+        }
+        >div{
+            @include flexbox();
+            @include justify-content(space-between);
+            margin-top: 0.1rem;
+            p:nth-child(1){
+                font-size: 0.22rem;
+                color: #ff6353;
+            }
+            p:nth-child(2){
+                font-size: 0.12rem;
+                color:#808080;
+                @include flexbox();
+                @include align-items(flex-end);
+                margin-right: 0.1rem;
+                span{
+                    color:#333;
+                }
+            }
+        }
+        >p:nth-child(4){
+            font-size: 0.12rem;
+            color:#808080;
+        }
+    }
+    
+    
+    .detail-onsale{
+        background-color: #fff;
+        h3{
+            font-size: 0.16rem;
+            line-height: 0.42rem;
+            padding-left: 0.1rem;
+            @include border(0 0 1px 0,#808080);
+            color:#808080;
+        }
+        >div{
+            padding: 0.14rem 0.1rem;
+            @include flexbox();
+            >div:nth-child(1){
+                width: 0.24rem;
+                height: 100%;
+                font-size: 0.12rem;
+                background: #11b57c;
+                color:#fff;
+                margin-right: 0.1rem;
+            }
+            >div:nth-child(2){
+                font-size: 0.14rem;
+                color:#333;
+                line-height: 0.22rem;
+            }
+        }
+    }
+
+    .detail-num{
+        background-color: #fff;
+        overflow:hidden;
+        margin-top: 0.1rem;
+        >div:nth-child(1){
+            width: 100%;
+            height: 0.58rem;
+            padding-left: 0.1rem;
+            line-height: 0.58rem;
+            @include border(0 0 1px 0,#808080);
+            span{
+                padding: 0.05rem;
+                @include border(1px,#11b57c);
+                color:#11b57c;
+            }
+        }
+        >div:nth-child(2){
+            padding:0.11rem 0.1rem;
+            @include flexbox();
+            line-height: 0.28rem;
+            span{
+                color:#808080;
+                margin-right: 0.1rem;
+            }
+            p{
+                display: inline-block;
+                @include border(1px,#888);
+                text-align: center;
+            }
+            >p:nth-child(2){
+                width: 0.22rem;
+            }
+            >p:nth-child(3){
+                width: 0.32rem;
+            }
+            >p:nth-child(4){
+                width: 0.22rem;
+            }
+        }
+    }
+    .detail-local{
+        padding: 0.14rem 0.1rem;
+        @include flexbox();
+        background: #fff;
+        margin-top: 0.1rem;
+        >div:nth-child(1){
+            width: 0.26rem;
+            font-size: 0.12rem;
+            margin-right: 0.1rem;
+        }
+        >div:nth-child(2){
+            >div:nth-child(1){
+                span{
+                    display: inline-block;
+                    width: 0.1rem;
+                    height: 0.1rem;
+                    background: url(//img05.yiguoimg.com/d/web/170830/00916/154520/dw.png) no-repeat;
+                    background-size: 100% 100%;
+                }
+            }
+            >div:nth-child(2){
+                span{
+                    display: inline-block;
+                    font-size: 0.12rem;
+                    color: #11b57c;
+                }
+                p{
+                    display: inline-block;
+                    font-size: 0.12rem;
+                    color:#808080;
+                }
+            }
+        }
+    }
+    .detail-shopCar{
+        height: 0.48rem;
+        background: #fff;
+        margin-top: 0.1rem;
+        div{
+            float:right;
+            width: 1.12rem;
+            background: #ff6353;
+            text-align: center;
+            line-height:0.48rem;
+            a{
+                color:#fff;
+            }
+        }
+    }
+}

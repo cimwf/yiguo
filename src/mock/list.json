@@ -1,0 +1,243 @@
+{
+    "content": {
+        "data": {
+            "isLogin": false,
+            "page": {
+                "pageSize": 15,
+                "start": "15",
+                "result": [
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4835579,
+                        "positionName": "在线教育销售经理",
+                        "city": "北京",
+                        "createTime": "今天 08:33",
+                        "salary": "30k-50k",
+                        "companyId": 62,
+                        "companyLogo": "i/image2/M01/79/0A/CgoB5ltr2A-AM5SFAADbT9jQCn841.jpeg",
+                        "companyName": "字节跳动-9",
+                        "companyFullName": "北京字节跳动科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4835804,
+                        "positionName": "销售主管",
+                        "city": "北京",
+                        "createTime": "今天 08:33",
+                        "salary": "20k-40k",
+                        "companyId": 62,
+                        "companyLogo": "i/image2/M01/79/0A/CgoB5ltr2A-AM5SFAADbT9jQCn841.jpeg",
+                        "companyName": "字节跳动",
+                        "companyFullName": "北京字节跳动科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4838170,
+                        "positionName": "高级交互设计【体验方向】【南京】",
+                        "city": "南京",
+                        "createTime": "今天 07:12",
+                        "salary": "15k-20k",
+                        "companyId": 20447,
+                        "companyLogo": "image1/M00/00/25/Cgo8PFTUWIOAZ8pOAAA6yyp5uZ0476.png",
+                        "companyName": "南京SparkDesign",
+                        "companyFullName": "南京斯巴克软件科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4825933,
+                        "positionName": "信息技术主管",
+                        "city": "北京",
+                        "createTime": "今天 06:01",
+                        "salary": "15k-20k",
+                        "companyId": 158369,
+                        "companyLogo": "i/image3/M00/0F/A8/Cgq2xlpprZOAYhlEAAAbKRYMKWI969.png",
+                        "companyName": "中电进出口",
+                        "companyFullName": "中国电子进出口有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4825934,
+                        "positionName": "信息技术专员（网络维护）",
+                        "city": "北京",
+                        "createTime": "今天 06:01",
+                        "salary": "10k-15k",
+                        "companyId": 158369,
+                        "companyLogo": "i/image3/M00/0F/A8/Cgq2xlpprZOAYhlEAAAbKRYMKWI969.png",
+                        "companyName": "中电进出口",
+                        "companyFullName": "中国电子进出口有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4840198,
+                        "positionName": "深度学习研究员",
+                        "city": "无锡",
+                        "createTime": "今天 00:25",
+                        "salary": "6k-12k",
+                        "companyId": 122967,
+                        "companyLogo": "i/image/M00/1C/84/CgqKkVcCfPmAJowJAABLAGdHzS8025.jpg",
+                        "companyName": "弦圃智能科技（上海）有限公司",
+                        "companyFullName": "弦圃智能科技（上海）有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4843134,
+                        "positionName": "授权经理---服装类目",
+                        "city": "上海",
+                        "createTime": "昨天 23:50",
+                        "salary": "15k-25k",
+                        "companyId": 1686,
+                        "companyLogo": "i/image/M00/86/41/CgpFT1rOxKOAXsCwAAB1tzB2sOU050.jpg",
+                        "companyName": "爱奇艺",
+                        "companyFullName": "北京奇艺世纪科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4805828,
+                        "positionName": "电商产品",
+                        "city": "上海",
+                        "createTime": "昨天 23:50",
+                        "salary": "15k-30k",
+                        "companyId": 1686,
+                        "companyLogo": "i/image/M00/86/41/CgpFT1rOxKOAXsCwAAB1tzB2sOU050.jpg",
+                        "companyName": "爱奇艺",
+                        "companyFullName": "北京奇艺世纪科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4840924,
+                        "positionName": "it项目经理",
+                        "city": "广州",
+                        "createTime": "昨天 22:53",
+                        "salary": "10K-19K",
+                        "companyId": 244318,
+                        "companyLogo": "i/image/M00/5B/07/CgpFT1mNf-iAcgQiAAAOwM7m-Gk970.png",
+                        "companyName": "微微信息",
+                        "companyFullName": "广州市微微信息科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4838324,
+                        "positionName": "BI工程师",
+                        "city": "杭州",
+                        "createTime": "昨天 22:52",
+                        "salary": "12k-18k",
+                        "companyId": 82036,
+                        "companyLogo": "i/image2/M00/4D/8D/CgotOVr-NZyAMeT4AAFKlO8aTno093.png",
+                        "companyName": "红花朵朵",
+                        "companyFullName": "杭州红花朵朵网络技术有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4826840,
+                        "positionName": "资深测试工程师",
+                        "city": "杭州",
+                        "createTime": "昨天 22:52",
+                        "salary": "15k-25k",
+                        "companyId": 82036,
+                        "companyLogo": "i/image2/M00/4D/8D/CgotOVr-NZyAMeT4AAFKlO8aTno093.png",
+                        "companyName": "红花朵朵",
+                        "companyFullName": "杭州红花朵朵网络技术有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4802481,
+                        "positionName": "业务经理",
+                        "city": "成都",
+                        "createTime": "昨天 21:44",
+                        "salary": "4k-8k",
+                        "companyId": 306734,
+                        "companyLogo": "i/image3/M00/16/17/CgpOIFpy066AcQmKAAFXbG9znKE960.jpg",
+                        "companyName": "叁陆伍电子商务",
+                        "companyFullName": "成都叁陆伍电子商务有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4838283,
+                        "positionName": "媒介公关经理",
+                        "city": "北京",
+                        "createTime": "昨天 21:19",
+                        "salary": "15k-25k",
+                        "companyId": 201049,
+                        "companyLogo": "i/image3/M00/52/4F/CgpOIFsGMOOANdAMAAAf6luSeso434.png",
+                        "companyName": "Weego Travel",
+                        "companyFullName": "非凡维格（北京）信息科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4829604,
+                        "positionName": "销售经理",
+                        "city": "广州",
+                        "createTime": "昨天 21:15",
+                        "salary": "8k-16k",
+                        "companyId": 280037,
+                        "companyLogo": "i/image3/M00/3D/AB/Cgq2xlqwj8WAESFzAALYhBVwGRQ619.jpg",
+                        "companyName": "中国人寿",
+                        "companyFullName": "中国人寿保险股份有限公司广州市黄埔支公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4806495,
+                        "positionName": "销售储备干部",
+                        "city": "厦门",
+                        "createTime": "昨天 21:12",
+                        "salary": "6K-12K",
+                        "companyId": 411202,
+                        "companyLogo": "i/image2/M01/60/F2/CgoB5ls3l7GAZrEpAABZWt47xEM030.png",
+                        "companyName": "厦门世联行",
+                        "companyFullName": "厦门世联兴业房地产顾问有限公司"
+                    }
+                ],
+                "totalCount": "323032",
+                "pageNo": 2
+            }
+        },
+        "rows": []
+    },
+    "message": "第2页数据,每页15条, 查询成功!",
+    "state": 1
+}

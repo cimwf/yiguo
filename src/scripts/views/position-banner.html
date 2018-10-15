@@ -1,0 +1,16 @@
+<ul>
+    {{#each banner}}
+    <li>
+        <div>
+            <img src="{{pictureUrl}}" alt="">
+        </div>
+        <p>{{commodityName}}</p>
+        <span>{{saleSlogan}}</span>
+        <div>
+            <p>￥{{commodityPrice}}
+                <span>{{commoditySpec}}</span>
+            </p>
+        </div>
+    </li>
+    {{/each}}
+</ul>

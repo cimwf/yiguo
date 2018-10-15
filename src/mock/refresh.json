@@ -1,0 +1,33 @@
+{
+    "content": {
+        "data": {
+            "isLogin": false,
+            "page": {
+                "pageSize": 15,
+                "start": "15",
+                "result": [
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 4835579,
+                        "positionName": "在线教育销售经理",
+                        "city": "北京",
+                        "createTime": "今天 08:33",
+                        "salary": "30k-50k",
+                        "companyId": 62,
+                        "companyLogo": "i/image2/M01/79/0A/CgoB5ltr2A-AM5SFAADbT9jQCn841.jpeg",
+                        "companyName": "字节跳动-9",
+                        "companyFullName": "北京字节跳动科技有限公司"
+                    }
+                ],
+                "totalCount": "323032",
+                "pageNo": 2
+            }
+        },
+        "rows": []
+    },
+    "message": "第2页数据,每页15条, 查询成功!",
+    "state": 1
+}
